@@ -4,7 +4,7 @@
 \name{dendroEco-package}
 \alias{dendroEco}
 \alias{dendroEco-package}
-\title{dendroEco: Tools for computing Dendroecologial Analysis}
+\title{dendroEco: Tools for Computing Dendroecologial Analysis}
 \description{
 A collection of usefuls functions to compute dendroecological analysis.
 }
