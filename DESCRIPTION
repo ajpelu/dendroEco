@@ -1,16 +1,15 @@
 Package: dendroEco
-Title: Tools for Dendroecologial Analysis 
-Date: 2018-01-10
-Version: 0.0.1
+Title: Tools for computing Dendroecologial Analysis. 
 Authors@R: 
     person(given = "Antonio J",
            family = "Perez-Luque",
            role = c("aut", "cre"),
            email = "ajpelu@gmail.com")
-Description: A collection of usefuls R functions to compute dendroecological 
-  analysis
-License: MIT + file LICENSE
+Description: A collection of usefuls R functions to compute dendroecological analysis.
 Encoding: UTF-8
 LazyData: true
-URL: https://github.com/ajpelu/dendroEco
-BugReports: https://github.com/ajpelu/dendroEco/issues
+License: MIT + file LICENSE
+Suggests: 
+    testthat (>= 1.0.2)
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 6.1.0
