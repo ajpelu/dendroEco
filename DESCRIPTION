@@ -6,7 +6,7 @@ Authors@R:
            family = "Perez-Luque",
            role = c("aut", "cre"),
            email = "ajpelu@gmail.com")
-Description: A collection of usefuls R functions to compute dendroecological analysis.
+Description: A collection of usefuls functions to compute dendroecological analysis.
 Encoding: UTF-8
 LazyData: true
 License: MIT + file LICENSE
