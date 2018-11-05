@@ -1,12 +1,16 @@
 Package: dendroEco
-Title: What the Package Does (One Line, Title Case)
-Version: 0.0.0.9000
+Title: Tools for Dendroecologial Analysis 
+Date: 2018-01-10
+Version: 0.0.1
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Antonio J",
+           family = "Perez-Luque",
            role = c("aut", "cre"),
-           email = "first.last@example.com")
-Description: What the package does (one paragraph).
-License: What license it uses
+           email = "ajpelu@gmail.com")
+Description: A collection of usefuls R functions to compute dendroecological 
+  analysis
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/ajpelu/dendroEco
+BugReports: https://github.com/ajpelu/dendroEco/issues
