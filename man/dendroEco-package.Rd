@@ -6,7 +6,7 @@
 \alias{dendroEco-package}
 \title{dendroEco: Tools for computing Dendroecologial Analysis}
 \description{
-A collection of usefuls R functions to compute dendroecological analysis.
+A collection of usefuls functions to compute dendroecological analysis.
 }
 \author{
 \strong{Maintainer}: Antonio J Perez-Luque \email{ajpelu@gmail.com}
