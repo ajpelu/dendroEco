@@ -1,5 +1,5 @@
 Package: dendroEco
-Title: Tools for computing Dendroecologial Analysis. 
+Title: Tools for computing Dendroecologial Analysis 
 Authors@R: 
     person(given = "Antonio J",
            family = "Perez-Luque",
