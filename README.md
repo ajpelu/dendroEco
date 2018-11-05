@@ -13,5 +13,6 @@ Installation
 You can install the released version of dendroEco from [CRAN](https://CRAN.R-project.org) with:
 
 ``` r
-install.packages("dendroEco")
+library(devtools)
+install_github("ajpelu/dendroEco")
 ```
