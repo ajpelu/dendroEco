@@ -10,9 +10,17 @@ The goal of dendroEco is to compile functions for computing dendroecological ana
 Installation
 ------------
 
-You can install the released version of dendroEco from [CRAN](https://CRAN.R-project.org) with:
-
 ``` r
 library(devtools)
 install_github("ajpelu/dendroEco")
 ```
+
+Author
+------
+
+Antonio J. Pérez-Luque \[@ajpelu\](<http://twitter.com/ajpelu>). Departmet of Ecology, University of Granada (Spain)
+
+License
+-------
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE.md) file for details
