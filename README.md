@@ -18,9 +18,9 @@ install_github("ajpelu/dendroEco")
 Author
 ------
 
-Antonio J. Pérez-Luque \[@ajpelu\](<http://twitter.com/ajpelu>). Departmet of Ecology, University of Granada (Spain)
+Antonio J. Pérez-Luque: [@ajpelu](http://twitter.com/ajpelu), Departmet of Ecology, University of Granada (Spain).
 
 License
 -------
 
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE.md) file for details.
